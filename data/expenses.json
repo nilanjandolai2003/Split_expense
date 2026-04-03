@@ -1,0 +1,72 @@
+[
+    {
+        "id": "bc15d7f8eef905a8",
+        "group_id": "7f34db5f3916e958",
+        "description": "movie",
+        "amount": 1000,
+        "paid_by": "Nilu",
+        "split_with": [
+            "Nilu",
+            "Mitu",
+            "Akash"
+        ],
+        "category": "general",
+        "created_at": "2026-04-03T08:25:58+00:00"
+    },
+    {
+        "id": "c1c470f9f9538a64",
+        "group_id": "b1c85455680c9267",
+        "description": "movie",
+        "amount": 200,
+        "paid_by": "sabuj",
+        "split_with": [
+            "alap",
+            "sabuj",
+            "rupsa"
+        ],
+        "category": "general",
+        "created_at": "2026-04-03T08:27:02+00:00"
+    },
+    {
+        "id": "206c844df73ec2b9",
+        "group_id": "7f34db5f3916e958",
+        "description": "dinner",
+        "amount": 500,
+        "paid_by": "Mitu",
+        "split_with": [
+            "Nilu",
+            "Mitu",
+            "Akash"
+        ],
+        "category": "general",
+        "created_at": "2026-04-03T08:27:26+00:00"
+    },
+    {
+        "id": "d820ddb38ddfbea5",
+        "group_id": "b1c85455680c9267",
+        "description": "dinner",
+        "amount": 100,
+        "paid_by": "alap",
+        "split_with": [
+            "alap",
+            "sabuj",
+            "rupsa"
+        ],
+        "category": "general",
+        "created_at": "2026-04-03T08:27:51+00:00"
+    },
+    {
+        "id": "da2da636ca9a6867",
+        "group_id": "7f34db5f3916e958",
+        "description": "music",
+        "amount": 100,
+        "paid_by": "Mitu",
+        "split_with": [
+            "Nilu",
+            "Mitu",
+            "Akash"
+        ],
+        "category": "general",
+        "created_at": "2026-04-03T08:28:29+00:00"
+    }
+]
